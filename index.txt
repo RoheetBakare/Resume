@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+Roheet_Bakare - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Roheet Bakare
+Roheet Bakare
+Data Scientist
 
 Show Contacts
 
 Email
-richard@example.com
+bakareroheet@gmail.com
 
 Phone
-+1 (213) 352-2795
++1 (510) 329-6032
 
 Birthday
-June 23, 1982
+Sept 07, 1998
 
 Location
-Sacramento, California, USA
+Hayward, California, USA
 
 # navbar
 

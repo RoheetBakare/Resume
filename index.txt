@@ -12,6 +12,10 @@ Email
 richard@example.com
 
 Phone
+we need to put our number here 
+
+wE NEED TO PUT THE DETAILED NUMBER HERE AND PRINT IT DRIECTLY 
+
 +1 (213) 352-2795
 
 Birthday

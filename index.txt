@@ -1,5 +1,8 @@
 vCard - Personal Portfolio
-
+I have development experience in C, C++, and Python programming languages.
+Also, I have completed specific courses and internship relevant to Data Science requirements.
+As a person, I am creative and meticulous in all my efforts.
+I have been working on Research  of complex problems in real life and doing data Anaylsis and predicting assumptions on the basis of the Anaylsis
 # sidebar
 
 alt = Richard hanrick
